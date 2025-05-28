@@ -1,0 +1,16 @@
+{
+  "AzureOpenAI": {
+    "Endpoint": "https://your-openai-endpoint.openai.azure.com/",
+    "ApiKey": "UserSecret:ApiKey",
+    "DeploymentName": "gpt-4"
+  },
+  "AzureAd": {
+    "ClientId": "your-client-id",
+    "ClientSecret": "UserSecret:ClientSecret",
+    "TenantId": "your-tenant-id"
+  },
+  "Graph": {
+    "TeamId": "your-team-id",
+    "ChannelId": "your-channel-id"
+  }
+}

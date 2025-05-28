@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\xCode\\TeamsAiMessager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE94254-42CF-47B4-8C2B-2054718AA186}|TeamsAiMessager\\TeamsAiMessager.csproj|e:\\xcode\\teamsaimessager\\teamsaimessager\\services\\jsonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE94254-42CF-47B4-8C2B-2054718AA186}|TeamsAiMessager\\TeamsAiMessager.csproj|solutionrelative:teamsaimessager\\services\\jsonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE94254-42CF-47B4-8C2B-2054718AA186}|TeamsAiMessager\\TeamsAiMessager.csproj|e:\\xcode\\teamsaimessager\\teamsaimessager\\services\\graphauthprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE94254-42CF-47B4-8C2B-2054718AA186}|TeamsAiMessager\\TeamsAiMessager.csproj|solutionrelative:teamsaimessager\\services\\graphauthprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE94254-42CF-47B4-8C2B-2054718AA186}|TeamsAiMessager\\TeamsAiMessager.csproj|e:\\xcode\\teamsaimessager\\teamsaimessager\\services\\configservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE94254-42CF-47B4-8C2B-2054718AA186}|TeamsAiMessager\\TeamsAiMessager.csproj|solutionrelative:teamsaimessager\\services\\configservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE94254-42CF-47B4-8C2B-2054718AA186}|TeamsAiMessager\\TeamsAiMessager.csproj|e:\\xcode\\teamsaimessager\\teamsaimessager\\services\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE94254-42CF-47B4-8C2B-2054718AA186}|TeamsAiMessager\\TeamsAiMessager.csproj|solutionrelative:teamsaimessager\\services\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE94254-42CF-47B4-8C2B-2054718AA186}|TeamsAiMessager\\TeamsAiMessager.csproj|e:\\xcode\\teamsaimessager\\teamsaimessager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE94254-42CF-47B4-8C2B-2054718AA186}|TeamsAiMessager\\TeamsAiMessager.csproj|solutionrelative:teamsaimessager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE94254-42CF-47B4-8C2B-2054718AA186}|TeamsAiMessager\\TeamsAiMessager.csproj|e:\\xcode\\teamsaimessager\\teamsaimessager\\services\\teamsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE94254-42CF-47B4-8C2B-2054718AA186}|TeamsAiMessager\\TeamsAiMessager.csproj|solutionrelative:teamsaimessager\\services\\teamsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE94254-42CF-47B4-8C2B-2054718AA186}|TeamsAiMessager\\TeamsAiMessager.csproj|e:\\xcode\\teamsaimessager\\teamsaimessager\\models\\graphmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE94254-42CF-47B4-8C2B-2054718AA186}|TeamsAiMessager\\TeamsAiMessager.csproj|solutionrelative:teamsaimessager\\models\\graphmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE94254-42CF-47B4-8C2B-2054718AA186}|TeamsAiMessager\\TeamsAiMessager.csproj|e:\\xcode\\teamsaimessager\\teamsaimessager\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE94254-42CF-47B4-8C2B-2054718AA186}|TeamsAiMessager\\TeamsAiMessager.csproj|solutionrelative:teamsaimessager\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE94254-42CF-47B4-8C2B-2054718AA186}|TeamsAiMessager\\TeamsAiMessager.csproj|e:\\xcode\\teamsaimessager\\teamsaimessager\\config\\appsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3FE94254-42CF-47B4-8C2B-2054718AA186}|TeamsAiMessager\\TeamsAiMessager.csproj|solutionrelative:teamsaimessager\\config\\appsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JsonService.cs",
+              "DocumentMoniker": "E:\\xCode\\TeamsAiMessager\\TeamsAiMessager\\Services\\JsonService.cs",
+              "RelativeDocumentMoniker": "TeamsAiMessager\\Services\\JsonService.cs",
+              "ToolTip": "E:\\xCode\\TeamsAiMessager\\TeamsAiMessager\\Services\\JsonService.cs",
+              "RelativeToolTip": "TeamsAiMessager\\Services\\JsonService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:32:07.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfigService.cs",
+              "DocumentMoniker": "E:\\xCode\\TeamsAiMessager\\TeamsAiMessager\\Services\\ConfigService.cs",
+              "RelativeDocumentMoniker": "TeamsAiMessager\\Services\\ConfigService.cs",
+              "ToolTip": "E:\\xCode\\TeamsAiMessager\\TeamsAiMessager\\Services\\ConfigService.cs",
+              "RelativeToolTip": "TeamsAiMessager\\Services\\ConfigService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:22:37.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GraphAuthProvider.cs",
+              "DocumentMoniker": "E:\\xCode\\TeamsAiMessager\\TeamsAiMessager\\Services\\GraphAuthProvider.cs",
+              "RelativeDocumentMoniker": "TeamsAiMessager\\Services\\GraphAuthProvider.cs",
+              "ToolTip": "E:\\xCode\\TeamsAiMessager\\TeamsAiMessager\\Services\\GraphAuthProvider.cs",
+              "RelativeToolTip": "TeamsAiMessager\\Services\\GraphAuthProvider.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:59:34.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GraphMessage.cs",
+              "DocumentMoniker": "E:\\xCode\\TeamsAiMessager\\TeamsAiMessager\\Models\\GraphMessage.cs",
+              "RelativeDocumentMoniker": "TeamsAiMessager\\Models\\GraphMessage.cs",
+              "ToolTip": "E:\\xCode\\TeamsAiMessager\\TeamsAiMessager\\Models\\GraphMessage.cs",
+              "RelativeToolTip": "TeamsAiMessager\\Models\\GraphMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:58:50.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeamsService.cs",
+              "DocumentMoniker": "E:\\xCode\\TeamsAiMessager\\TeamsAiMessager\\Services\\TeamsService.cs",
+              "RelativeDocumentMoniker": "TeamsAiMessager\\Services\\TeamsService.cs",
+              "ToolTip": "E:\\xCode\\TeamsAiMessager\\TeamsAiMessager\\Services\\TeamsService.cs",
+              "RelativeToolTip": "TeamsAiMessager\\Services\\TeamsService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:43:45.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AiService.cs",
+              "DocumentMoniker": "E:\\xCode\\TeamsAiMessager\\TeamsAiMessager\\Services\\AiService.cs",
+              "RelativeDocumentMoniker": "TeamsAiMessager\\Services\\AiService.cs",
+              "ToolTip": "E:\\xCode\\TeamsAiMessager\\TeamsAiMessager\\Services\\AiService.cs",
+              "RelativeToolTip": "TeamsAiMessager\\Services\\AiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:43:34.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "E:\\xCode\\TeamsAiMessager\\TeamsAiMessager\\Models\\AppSettings.cs",
+              "RelativeDocumentMoniker": "TeamsAiMessager\\Models\\AppSettings.cs",
+              "ToolTip": "E:\\xCode\\TeamsAiMessager\\TeamsAiMessager\\Models\\AppSettings.cs",
+              "RelativeToolTip": "TeamsAiMessager\\Models\\AppSettings.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:43:20.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsetting.json",
+              "DocumentMoniker": "E:\\xCode\\TeamsAiMessager\\TeamsAiMessager\\Config\\appsetting.json",
+              "RelativeDocumentMoniker": "TeamsAiMessager\\Config\\appsetting.json",
+              "ToolTip": "E:\\xCode\\TeamsAiMessager\\TeamsAiMessager\\Config\\appsetting.json",
+              "RelativeToolTip": "TeamsAiMessager\\Config\\appsetting.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T13:42:47.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\xCode\\TeamsAiMessager\\TeamsAiMessager\\Program.cs",
+              "RelativeDocumentMoniker": "TeamsAiMessager\\Program.cs",
+              "ToolTip": "E:\\xCode\\TeamsAiMessager\\TeamsAiMessager\\Program.cs",
+              "RelativeToolTip": "TeamsAiMessager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:41:41.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
